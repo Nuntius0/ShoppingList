@@ -21,7 +21,7 @@ package com.woefe.shoppinglist.shoppinglist;
 
 import android.os.FileObserver;
 import android.os.SystemClock;
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 import android.util.Log;
 
 import java.io.File;
